@@ -1,0 +1,16 @@
+{
+"companyName": "KING",
+"productName": "ReturnOfBullet",
+"productVersion": "0.1",
+"dataUrl": "rob-build.data.unityweb",
+"wasmCodeUrl": "rob-build.wasm.code.unityweb",
+"wasmFrameworkUrl": "rob-build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.11f1"
+}
